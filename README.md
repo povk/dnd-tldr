@@ -21,7 +21,7 @@ Ideally, this guide should be all you need to play a fun game with friends, newb
   - [Rules](#rules)
   - [Mechanics](#mechanics)
   - [Goals](#goals)
-- [Characters explained 👫](#characters-explained-%F0%9F%91%AB)
+- [Characters explained 👫](#characters-explained-)
 - [Race](#race)
 - [Class](#class)
 - [Alignment](#alignment)
