@@ -46,7 +46,7 @@ Ideally, this guide should be all you need to play a fun game with friends, newb
 ## Requirements
 _TL;DR: Friends, a printer, some PDFs, some pens, hecka beers._
 
-* 2-4 **players** + 1 **Dungeon Master** 👨👩👨👩
+* 2-6 **players** + 1 **Dungeon Master** 👨👩👨👩
 * **Pen and paper** for each player 📝📝📝📝
 * A set of **game dice** for each player 🎲🎲🎲🎲
    * Or, use your phone. You can say "Siri, roll a D20" to an iPhone and it works.
