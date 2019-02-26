@@ -3,7 +3,7 @@
 
 ## A Fast and Loose Guide to Dungeons and Dragons
 
-### by Rich Jones
+### by Rich Jones - adapted for 5e Starter Kit by povk
 
 _Too long, didn't read: This guide makes DnD super fun and easy._
 
@@ -21,7 +21,7 @@ Ideally, this guide should be all you need to play a fun game with friends, newb
   - [Rules](#rules)
   - [Mechanics](#mechanics)
   - [Goals](#goals)
-- [Making Characters 👫](#making-characters-%F0%9F%91%AB)
+- [Characters explained 👫](#characters-explained-)
 - [Race](#race)
 - [Class](#class)
 - [Alignment](#alignment)
@@ -36,13 +36,6 @@ Ideally, this guide should be all you need to play a fun game with friends, newb
   - [Defending](#defending)
   - [Death](#death)
   - [Experience Points and Levels](#experience-points-and-levels)
-- [Dungeon Mastering 🐉](#dungeon-mastering-%F0%9F%90%89)
-  - [Speed](#speed)
-  - [Adjusting Play](#adjusting-play)
-- [Premade Campaigns](#premade-campaigns)
-  - [Official](#official)
-  - [Fan-made](#fan-made)
-- [Making Your Own Campaigns](#making-your-own-campaigns)
 - [Other Resources 📚](#other-resources-%F0%9F%93%9A)
   - [Official](#official-1)
   - [Unofficial](#unofficial)
@@ -53,7 +46,7 @@ Ideally, this guide should be all you need to play a fun game with friends, newb
 ## Requirements
 _TL;DR: Friends, a printer, some PDFs, some pens, hecka beers._
 
-* 2-4 **players** + 1 **Dungeon Master** 👨👩👨👩
+* 2-6 **players** + 1 **Dungeon Master** 👨👩👨👩
 * **Pen and paper** for each player 📝📝📝📝
 * A set of **game dice** for each player 🎲🎲🎲🎲
    * Or, use your phone. You can say "Siri, roll a D20" to an iPhone and it works.
@@ -66,7 +59,7 @@ _TL;DR: Friends, a printer, some PDFs, some pens, hecka beers._
 
 _TL;DR: Invent a character, explore a fantasy world, talk to the people living there, fight crazy monsters, acquire plunder and glory, roll dice, drink beers, yell at your friends and have fun._
 
-Dungeons and Dragons is a fantasy role playing game. The game is played by 2-4 **player characters**, who play as adventurers exploring a world, and one **Dungeon Master**, who controls the context of the adventure and plays as the **non-player characters** and **monsters**.
+Dungeons and Dragons is a fantasy role playing game. The game is played by 2-6 **player characters**, who play as adventurers exploring a world, and one **Dungeon Master**, who controls the context of the adventure and plays as the **non-player characters** and **monsters**.
 
 #### Rules
 
@@ -88,25 +81,10 @@ Generally, the Dungeon Master is trying to steer you onto a fun quest, but ultim
 
 The only limits are your imagination and the rolls of dice. Have fun!
 
-## Making Characters 👫
-_TL;DR: Choose a character type. Print a [premade sheet](character_sheets/). In a pinch, pretend to be Han Solo or Darth Vader but as a Lord of the Rings character._
+## Characters Explained 👫
+_TL;DR: Read your character sheet. In a pinch, pretend to be Han Solo or Darth Vader but as a Lord of the Rings character._
 
 <!--Character creation is the longest, most confusing and most boring part of the game for new players. We're going to skip all of the pointless parts and just get to the good stuff.-->
-
-Every player besides the Dungeon Master needs to create a character. This will be something like _Riceak Beestinger, Chaotic Gnomish Druid_, or _Hollyatra Gellantara, Lawful Human Paladin_.
-
-Each player will need to choose a **race**, a **class**, an **alignment**, and a **name**. Then, print the character sheet for that combination from the [PDFs in this repository, linked below](character_sheets/). Choose a combination that you think will be fun to play as.
-
-You'll probably want to make sure that your party has good a balance of skills and personalities. _You can't all be Han Solo!_
-
-If you're super lazy, just use these characters for your party, which should suit any starting campaign:
-
-* [Half-Orc Barbarian](character_sheets/half-orc_barbarian.pdf)
-* [Human Cleric](character_sheets/human_cleric.pdf)
-* [Elven Ranger](character_sheets/elf_ranger.pdf)
-* [Tiefling Rogue](character_sheets/tiefling_rogue.pdf) 
-
-Players can do this themselves before the session starts to save time, or the DM can just print out a bunch of the archetypical character types for players to choose from, or you can print them on demand. A [combined PDF](character_sheets/default_party/default_party.pdf) of the default party is also provided.
 
 ### Race
 _TL;DR: What do you look like?_
@@ -117,7 +95,6 @@ Race can affect how people interact with your character. Non-player characters i
 
 Also, big characters can throw small characters, which is always funny.
 
-Choose one:
 
 | Race    | Size | Attributes|
 |:------------- |:----------------|:-------------|
@@ -136,7 +113,7 @@ _TL;DR: What can you do?_
 
 Class defines the **skills and abilities** of your character. 
 
-Some can use magic, some are good at melee combat, some are good a ranged weaponry, and some are good at seduction. Pick the one that you think would be fun role play as!
+Some can use magic, some are good at melee combat, some are good a ranged weaponry, and some are good at seduction. 
 
 | Class    | Quality | Good at |
 |:------------- |:----------------|:-------------|
@@ -158,8 +135,6 @@ _TL;DR: How do you behave - good or bad? Lawful or criminal?_
 
 Alignment describes your character's **motivations and behavior**. There are two axis here: good and evil, lawful and chaotic. These map pretty well to archetypical movie characters, Darth Vader is lawful evil, Han Solo is chaotic neutral, etc. 
 
-Again, choose one you think would be fun:
-
 | | | |
 |:------------- |:----------------|:-------------|
 | **Lawful Good** (Superman) | **Neutral Good** (Gandalf) | **Chaotic Good** (Batman) |
@@ -174,7 +149,7 @@ Alternately, you can just use this [character name generator](https://www.wizard
 
 ### Character Sheets
 
-Now that you've chosen your **race**, **class**, **alignment** and **name**, find the right **character sheet** for that combination of race and class in [this directory](/character_sheets) and print it out. This is yours now. Fill in your alignment and name at the top, then read over the sheet. You'll see that you already have your stats calculated and a list of weapons and items in your inventory that you'll start the game with. Hooray!
+Now that you've got your **character sheet** and picked a **name**, this is yours now. Fill in your name at the top, then read over the sheet. You'll see that you already have your stats calculated and a list of weapons and items in your inventory that you'll start the game with. Hooray!
 
 #### Important Numbers
 
@@ -260,69 +235,13 @@ If a player's HP drops below 0, they have suffered a mortal wound and can no lon
 
 Total death generally isn't very much fun for that player, so the Dungeon Master may choose to use divine inspiration to help that player out before or after they die. 
 
-You can also introduce **ＤＥＡＴＨ** as a non-player character and have the player barter with ＤＥＡＴＨ in exchange for humiliating punishments, or challenge them to a game of "street craps", where you each throw all of your dice and count the number of pairwise wins.
-
-If a player dies completely, you can have them hang around as a ghost who has no items but can still gently interact with objects, and, if they roll exceptionally well, lightly posess nearby non-player characters. The other players are responsible for dragging the corpse along for the rest of the quest until it can be revived.
-
-If _all_ your players die, you can send them on the fan-made _**[Fires of Hell](https://olddungeonmaster.files.wordpress.com/2014/12/fires-of-hell-5e.pdf)**_ campaign, which lets the players fight their way out of Hell and back to your game world.
-
 #### Experience Points and Levels
 
 After winning a combat round or complete a quest, players are rewarded with **Experience Points (XP)**. When a player gets enough  XP, they increase their level by one.
 
-Levelling up gives a player **two +1 points** to improve their abilities of their choosing, and adds **6 + CON** to that player's Hit Points. They don't immediately heal to full health, but they do get the new hit points.
+Levelling up gives a player features described on the reverse of their character sheet.
 
 XP is **cumulative**, and levelling up happens at _300, 900, 2700, 6500, 14000, 23000, 34000, 48000, 64000, 85000, 100000, 120000, 140000, 165000, 195000, 225000, 265000, 305000 and 355000_ points.
-
-## Dungeon Mastering 🐉
-_TL;DR: Make your players have as much fun as possible by being kind of a dick to them._
-
-As a dungeon master, your job is to make the other players have as much fun as possible. 
-
-#### Speed
-
-Make sure that all the players at the table are engaged, and that nobody is hogging all the action. If somebody is trying to derail your game too much, feel throw to use divine intervention to throw punishments at them. 
-
-Don't let players take too long for their turns or the game becomes boring. It really shouldn't take more than 30 seconds a turn. If this becomes a problem, use a timer.
-
-To make sure that the game moves along quickly, if somebody asks you if they can do something, the best answer to give them is *"roll for it!"*
-
-If the players are all playing along nicely, solving your puzzles and coming up with creative solutions to your problems, you can reward them with **inspiration points**, which acts like a currency that they can use to improve the results of their rolls.
-
-#### Adjusting Play
-
-Different players like different things, so feel free to adjust your campaign to suit their needs. If they like combat, throw a bunch of enemies at them. If they like exploration, create puzzles for them to solve. If they like interaction, create interesting characters for them to talk to. A good campaign will have a balance of all these.
-
-Your players will have different motivations for playing. Newer players generally just want to aquire new weapons and armour to improve their character's fighting skills, but other players may just be more interested in discovering more about the plot of the campaign. Figure out what different people like and adjust the campaign accordingly.
-
-### Premade Campaigns
-
-The internet is full of pre-made campaigns of varying quality. Most of the official ones can be bought for a few bucks each, but you can also generally find the PDFs on sketchy Russian download websites.
-
-I like the _Adventurer's League_ series because the missions are short and the files are well formatted, but because the missions are short they don't go as deep. Try to find one that's right for your players!
-
-There are also many unofficial fan-made campaigns that are just as good as the official ones. (If you have any favorites, please send pull requests to this repository!)
-
-#### Official
-
-* [Harried in Hilsfar](http://media.wizards.com/2015/downloads/DDEX31_HarriedHillsfar.pdf) - Perfect for beginners.
-* [Defiance in Phlan](https://www.scribd.com/doc/241684556/DDEX11-Defiance-in-Phlan)
-* [Lost Mines of Phandelver](https://dnd.rem.uz/5e%20D%26D%20Books/Adventures/Starter%20Set/Lost%20Mine%20of%20Phandelver%20%281-5%29.pdf)
-* [Death House](https://media.wizards.com/2016/downloads/DND/Curse%20of%20Strahd%20Introductory%20Adventure.pdf)
-
-#### Fan-made
-
-* [Fires of Hell](https://olddungeonmaster.files.wordpress.com/2014/12/fires-of-hell-5e.pdf) - A quest for when all of your players are dead.
-* [The Mad Wizard: Meatworld is a Place of Madness](https://drive.google.com/file/d/0ByRI_bwghOr1TFQ2cS00VXBFVzA/view) - A Lovecraftian horror.
-* [The Ancient's Lab](http://homebrewery.naturalcrit.com/share/SyBdnURLNZ) - A one-shot adventure based on _The Thing_.
-
-### Making Your Own Campaigns
-
-I haven't done this yet. Advice welcome!
-
-A popular approach is to simply repurpose scenarios and characters from popular media. For instance, maybe take the plot of _Alien_ but replace the alien with a dragon. Or maybe have your adventureres go on the train-robbery mission from _Firefly_. You get the idea!
-
-There's also no reason why your quest has to be in a Tolkein-esque fantasy universe. Just port the characters into whatever type of world you want (steampunk and sci-fi worlds are pretty popular alternatives).
 
 ## Other Resources 📚
 
