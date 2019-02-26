@@ -3,7 +3,7 @@
 
 ## A Fast and Loose Guide to Dungeons and Dragons
 
-### by Rich Jones
+### by Rich Jones - adapted for 5e Starter Kit by povk
 
 _Too long, didn't read: This guide makes DnD super fun and easy._
 
@@ -59,7 +59,7 @@ _TL;DR: Friends, a printer, some PDFs, some pens, hecka beers._
 
 _TL;DR: Invent a character, explore a fantasy world, talk to the people living there, fight crazy monsters, acquire plunder and glory, roll dice, drink beers, yell at your friends and have fun._
 
-Dungeons and Dragons is a fantasy role playing game. The game is played by 2-4 **player characters**, who play as adventurers exploring a world, and one **Dungeon Master**, who controls the context of the adventure and plays as the **non-player characters** and **monsters**.
+Dungeons and Dragons is a fantasy role playing game. The game is played by 2-6 **player characters**, who play as adventurers exploring a world, and one **Dungeon Master**, who controls the context of the adventure and plays as the **non-player characters** and **monsters**.
 
 #### Rules
 
@@ -81,8 +81,8 @@ Generally, the Dungeon Master is trying to steer you onto a fun quest, but ultim
 
 The only limits are your imagination and the rolls of dice. Have fun!
 
-## Making Characters 👫
-_TL;DR: Choose a character type. Print a [premade sheet](character_sheets/). In a pinch, pretend to be Han Solo or Darth Vader but as a Lord of the Rings character._
+## Characters Explained 👫
+_TL;DR: Read your character sheet. In a pinch, pretend to be Han Solo or Darth Vader but as a Lord of the Rings character._
 
 <!--Character creation is the longest, most confusing and most boring part of the game for new players. We're going to skip all of the pointless parts and just get to the good stuff.-->
 
@@ -149,7 +149,7 @@ Alternately, you can just use this [character name generator](https://www.wizard
 
 ### Character Sheets
 
-Now that you've chosen your **race**, **class**, **alignment** and **name**, find the right **character sheet** for that combination of race and class in [this directory](/character_sheets) and print it out. This is yours now. Fill in your alignment and name at the top, then read over the sheet. You'll see that you already have your stats calculated and a list of weapons and items in your inventory that you'll start the game with. Hooray!
+Now that you've got your **character sheet** and picked a **name**, this is yours now. Fill in your name at the top, then read over the sheet. You'll see that you already have your stats calculated and a list of weapons and items in your inventory that you'll start the game with. Hooray!
 
 #### Important Numbers
 
@@ -239,7 +239,7 @@ Total death generally isn't very much fun for that player, so the Dungeon Master
 
 After winning a combat round or complete a quest, players are rewarded with **Experience Points (XP)**. When a player gets enough  XP, they increase their level by one.
 
-Levelling up gives a player **two +1 points** to improve their abilities of their choosing, and adds **6 + CON** to that player's Hit Points. They don't immediately heal to full health, but they do get the new hit points.
+Levelling up gives a player features described on the reverse of their character sheet.
 
 XP is **cumulative**, and levelling up happens at _300, 900, 2700, 6500, 14000, 23000, 34000, 48000, 64000, 85000, 100000, 120000, 140000, 165000, 195000, 225000, 265000, 305000 and 355000_ points.
 
